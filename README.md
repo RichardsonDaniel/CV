@@ -1,2 +1,2 @@
 # CV
-📄 CV container, easy update, easy storage. Sorted.
+📄 CV container
